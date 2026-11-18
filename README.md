@@ -12,7 +12,7 @@ parameter grid x a list of instances x repetitions, with a fixed number of proce
 
 ```bash
 pip install -e path/to/cpp-python-runner          # development, changes apply immediately
-pip install "cpp-python-runner @ git+https://github.com/<user>/cpp-python-runner@v0.1.0"
+pip install "cpp-python-runner @ git+https://github.com/MxHbm/cpp-python-runner.git@v0.1.0"
 ```
 
 ## Usage

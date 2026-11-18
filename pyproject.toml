@@ -7,6 +7,9 @@ name = "cpp-python-runner"
 version = "0.1.0"
 description = "Run a command line executable for a grid of parameter files x instances in parallel."
 readme = "README.md"
+authors = [
+    {name = "Max Hubmann", email = "maxhubmann@outlook.com"}
+]
 requires-python = ">=3.10"
 dependencies = []
 
